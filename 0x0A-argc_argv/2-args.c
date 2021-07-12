@@ -5,7 +5,7 @@
  *@argc: number of argumnents passed to the function
  *@argv: argum,ent vector of pointers to strings
  *
- *Return always 0
+ *Return: always 0
  */
 int main(int argc, char *argv[])
 {
